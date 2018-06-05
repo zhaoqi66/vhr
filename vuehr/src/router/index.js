@@ -24,7 +24,7 @@ import Home from '@/components/Home'
 // import SysHr from '@/components/system/SysHr'
 // import SysInit from '@/components/system/SysInit'
 // import SysLog from '@/components/system/SysLog'
-
+import SysLogs from '@/components/system/SysLogs'
 Vue.use(Router)
 
 export default new Router({
@@ -42,6 +42,12 @@ export default new Router({
       meta:{
         requireAuth:true
       }
+	 
+	  
+    }, {
+      path: '/syslogs',
+      name: 'SysLogs',
+      component: SysLogs
     }
   ]
 })
