@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17522b34-9a82-4236-aa53-7b7953cf735e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/0.1d414e52b879a336dfc7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/0.1d414e52b879a336dfc7.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/1.53719015b6215b00f7e7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/1.53719015b6215b00f7e7.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/2.8b4d4b25a80d0d742898.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/2.8b4d4b25a80d0d742898.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/3.f005d3d1f94072277c82.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/3.f005d3d1f94072277c82.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/4.1a590e21825d3917c4c6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/4.1a590e21825d3917c4c6.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/5.a0aa9c0fdb8fc777a7f8.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/5.a0aa9c0fdb8fc777a7f8.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/app.84fc17e15eb2737fa42d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/app.84fc17e15eb2737fa42d.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/manifest.e61af4096a655dd93a81.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/manifest.e61af4096a655dd93a81.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hrserver/src/main/java/org/sang/bean/Hr.java" afterPath="$PROJECT_DIR$/hrserver/src/main/java/org/sang/bean/Hr.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hrserver/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hrserver/src/main/resources/mybatis-config.xml" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/mybatis-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hrserver/src/main/resources/static/index.html" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/css/app.c1b39e3ca627ecdd4a10889aa59b136c.css" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/css/app.c1b39e3ca627ecdd4a10889aa59b136c.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/img/fontawesome-webfont.912ec66.svg" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/img/fontawesome-webfont.912ec66.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/vendor.59f7a0d2e440c37c0dac.js" afterPath="$PROJECT_DIR$/hrserver/src/main/resources/static/static/js/vendor.59f7a0d2e440c37c0dac.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vuehr/package-lock.json" afterPath="$PROJECT_DIR$/vuehr/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vuehr/package.json" afterPath="$PROJECT_DIR$/vuehr/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vuehr/src/components/system/SysInit.vue" afterPath="$PROJECT_DIR$/vuehr/src/components/system/SysInit.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vuehr/src/router/index.js" afterPath="$PROJECT_DIR$/vuehr/src/router/index.js" />
-    </list>
+    <list default="true" id="17522b34-9a82-4236-aa53-7b7953cf735e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/hrserver/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -220,7 +192,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="467" />
     <option name="y" value="172" />
     <option name="width" value="974" />
@@ -264,58 +236,6 @@
             <path>
               <item name="hrserver" type="b2602c69:ProjectViewProjectNode" />
               <item name="hrserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hrserver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hrserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hrserver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hrserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hrserver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hrserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hrserver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hrserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hrserver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hrserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="sang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hrserver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hrserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="sang" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hrserver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hrserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -495,15 +415,15 @@
       <workItem from="1526277608731" duration="2207000" />
       <workItem from="1526440575696" duration="702000" />
       <workItem from="1526865225068" duration="4205000" />
-      <workItem from="1528164859327" duration="3418000" />
+      <workItem from="1528164859327" duration="3421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26920000" />
+    <option name="totallyTimeSpent" value="26923000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
